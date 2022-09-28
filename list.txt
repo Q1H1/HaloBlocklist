@@ -5,3 +5,7 @@ static.hotjar.com
 securepubads.g.doubleclick.net
 static.hotjar.com
 stmg-prod.mirror.co.uk
+disqus.com
+omgubuntu.disqus.com
+secure.gaug.es
+pagead2.googlesyndication.com
